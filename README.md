@@ -380,10 +380,3 @@ This project demonstrates that a machine learning solution is not limited to mod
 
 The project therefore focuses on both **machine learning performance and operational MLOps practices**.
 
-## Author
-
-**Ankita Sarkar**
-
-M.S. Data Science | Data Scientist | Machine Learning & AI
-
-GitHub: [19ankita](https://github.com/19ankita)
